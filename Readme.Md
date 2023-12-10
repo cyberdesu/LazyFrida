@@ -26,3 +26,6 @@ pip3 install beautifulsoup4
 ```
 
 2. and dont forget to change username,password variable
+
+result
+![result]( https://github.com/cyberdesu/LazyFrida/blob/main/result.png)
