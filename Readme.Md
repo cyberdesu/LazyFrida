@@ -1,4 +1,6 @@
+untuk kalian yang males isi logbook frida seperti watashi:v
 #installation
+
 ```
 pip3 install requests
 pip3 install beautifulsoup4
